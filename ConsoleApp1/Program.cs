@@ -20,4 +20,6 @@ string studentid = "570057";
 Console.WriteLine("What is your Student ID?");
 studentid = Console.ReadLine();
 
-Console.WriteLine($"Perfect! Thank you for taking the time out of your day to fill out this form, {name} {last}. You may now close this window.");
+Console.WriteLine($"Generating your leter...");
+Console.WriteLine($"----------------");
+
