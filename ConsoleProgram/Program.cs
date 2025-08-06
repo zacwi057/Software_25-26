@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Student Information Form");
 String name = "User";
 Console.WriteLine($"Welcome {name} to the Simple Form Letter Generator.");
 Console.WriteLine($"Please provide the following information to create your letter:");
